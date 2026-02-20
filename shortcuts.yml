@@ -4,8 +4,8 @@
 fragfinn 0: http://www.fragfinn.de/
 fragfinn 1: http://www.fragfinn.de/?stype=&s=<query>
 
-  url: https://www.fragfinn.de/?stype=&s=<query>
-  title: fragFINN Suche
-  description: fragFINN
-  tags:
-  - f
+#  url: https://www.fragfinn.de/?stype=&s=<query>
+#  title: fragFINN Suche
+#  description: fragFINN
+#  tags:
+#  - f
