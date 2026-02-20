@@ -1,8 +1,8 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-fragfinn 0: http://www.fragfinn.de/
-fragfinn 1: http://www.fragfinn.de/?stype=&s=<query>
+f 0: http://www.fragfinn.de/
+f 1: http://www.fragfinn.de/?stype=&s=<query>
 
 #  url: https://www.fragfinn.de/?stype=&s=<query>
 #  title: fragFINN Suche
