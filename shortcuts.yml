@@ -1,11 +1,11 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-examplekeyword 0: http://www.example.com/
-examplekeyword 1: http://www.example.com/?q=<query>
-examplekeyword 2:
+fragfinn 0: http://www.fragfinn.de/
+fragfinn 1: http://www.fragfinn.de/?stype=&s=<query>
+
   url: https://www.fragfinn.de/?stype=&s=<query>
   title: fragFINN Suche
-  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
+  description: fragFINN
   tags:
   - f
