@@ -4,12 +4,6 @@
 f 0: http://www.fragfinn.de/
 f 1: http://www.fragfinn.de/?stype=&s=<query>
 
-http 0: https://trovu.net/http-not-found
-http 1: http://<query>
-
-https 0: https://trovu.net/https-not-found
-https 2: https://<query>
-
 #  url: https://www.fragfinn.de/?stype=&s=<query>
 #  title: fragFINN Suche
 #  description: fragFINN
