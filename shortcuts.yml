@@ -4,8 +4,8 @@
 f 0: http://www.fragfinn.de/
 f 1: http://www.fragfinn.de/?stype=&s=<query>
 
-fb 0: https://www.fragfinn.de/?stype=image&s
-fb 1: https://www.fragfinn.de/?stype=image&s=<query>
+f-b 0: https://www.fragfinn.de/?stype=image&s
+f-b 1: https://www.fragfinn.de/?stype=image&s=<query>
 #  url: https://www.fragfinn.de/?stype=&s=<query>
 #  title: fragFINN Suche
 #  description: fragFINN
