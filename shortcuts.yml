@@ -7,9 +7,6 @@ f 1: http://www.fragfinn.de/?stype=&s=<query>
 f-b 0: https://www.fragfinn.de/?stype=image&s
 f-b 1: https://www.fragfinn.de/?stype=image&s=<query>
 
-html 0: data:text/html,
-htnl 1: data:text/html,<query>
-
 gh-repo 0: https://github.com/search?q=&type=repositories
 gh-repo 1: https://github.com/search?q=<query>&type=repositories
 
