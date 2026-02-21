@@ -2,6 +2,8 @@
 # https://trovu.net/docs/users/advanced/#custom-configuration
 namespaces:
 - o
+- en
+- .us
 - de
 - .de
 - github: .
