@@ -13,6 +13,10 @@ gh-repo 1: https://github.com/search?q=<query>&type=repositories
 gh-user 0: https://github.com/search?q=&type=users
 gh-user 1: https://github.com/search?q=<query>&type=users
 
+d-s 0: https://duckduckgo.com
+d-s 1: https://duckduckgo.com/?q=site:<site>&ia=web
+d-s 2: https://duckduckgo.com/?q=site:<site> <search>&ia=web
+
 #  url: https://www.fragfinn.de/?stype=&s=<query>
 #  title: fragFINN Suche
 #  description: fragFINN
