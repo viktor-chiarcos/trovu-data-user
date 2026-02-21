@@ -2,16 +2,16 @@
 # https://trovu.net/docs/shortcuts/
 
 f 0: http://www.fragfinn.de/
-f 1: http://www.fragfinn.de/?stype=&s=<query>
+f 1: http://www.fragfinn.de/?stype=&s=<text-suche>
 
 f-b 0: https://www.fragfinn.de/?stype=image&s
-f-b 1: https://www.fragfinn.de/?stype=image&s=<query>
+f-b 1: https://www.fragfinn.de/?stype=image&s=<bilder-suche>
 
 gh-repo 0: https://github.com/search?q=&type=repositories
-gh-repo 1: https://github.com/search?q=<query>&type=repositories
+gh-repo 1: https://github.com/search?q=<repositorie>&type=repositories
 
 gh-user 0: https://github.com/search?q=&type=users
-gh-user 1: https://github.com/search?q=<query>&type=users
+gh-user 1: https://github.com/search?q=<user>&type=users
 
 d-s 0: https://duckduckgo.com
 d-s 1: https://duckduckgo.com/?q=site:<site>&ia=web
